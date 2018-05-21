@@ -8,11 +8,11 @@
     margin-left: 1px !important;
 }
 
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(0) {
     content: url("http://globalbola.net/putra/image/sgp.png") !important;
 }
 
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {
     content: url("http://globalbola.net/putra/image/hk.png") !important;
 }
 
