@@ -1,0 +1,94 @@
+.header-logo2 {
+
+margin-left: 10px !important;
+height: 50px !important;
+}
+
+.button-orange {
+background: rgba(254,182,69,1) !important;
+background: -moz-linear-gradient(top, rgba(254,182,69,1) 0%, rgba(79,57,6,1) 100%) !important;
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(254,182,69,1)), color-stop(100%, rgba(79,57,6,1))) !important;
+background: -webkit-linear-gradient(top, rgba(254,182,69,1) 0%, rgba(79,57,6,1) 100%) !important;
+background: -o-linear-gradient(top, rgba(254,182,69,1) 0%, rgba(79,57,6,1) 100%) !important;
+background: -ms-linear-gradient(top, rgba(254,182,69,1) 0%, rgba(79,57,6,1) 100%) !important;
+background: linear-gradient(to bottom, rgba(254,182,69,1) 0%, rgba(79,57,6,1) 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feb645', endColorstr='#4f3906', GradientType=0 ) !important;
+
+}
+
+.buttonlc2 {
+box-shadow: none !important;
+
+
+}
+
+.page-header {
+background: rgba(6,44,84,1) !important;
+background: -moz-linear-gradient(left, rgba(6,44,84,1) 0%, rgba(73,156,234,1) 50%, rgba(6,44,84,1) 100%) !important;
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(6,44,84,1)), color-stop(50%, rgba(73,156,234,1)), color-stop(100%, rgba(6,44,84,1))) !important;
+background: -webkit-linear-gradient(left, rgba(6,44,84,1) 0%, rgba(73,156,234,1) 50%, rgba(6,44,84,1) 100%) !important;
+background: -o-linear-gradient(left, rgba(6,44,84,1) 0%, rgba(73,156,234,1) 50%, rgba(6,44,84,1) 100%) !important;
+background: -ms-linear-gradient(left, rgba(6,44,84,1) 0%, rgba(73,156,234,1) 50%, rgba(6,44,84,1) 100%) !important;
+background: linear-gradient(to right, rgba(6,44,84,1) 0%, rgba(73,156,234,1) 50%, rgba(6,44,84,1) 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#062c54', endColorstr='#062c54', GradientType=1 ) !important;
+border-bottom : 1px solid #f0b411 !important;
+
+}
+
+.main {
+background: rgba(76,76,76,1) !important;
+background: -moz-linear-gradient(-45deg, rgba(76,76,76,1) 0%, rgba(43,43,43,1) 12%, rgba(20,20,20,1) 25%, rgba(15,15,15,1) 39%, rgba(8,8,8,1) 50%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(28,28,28,1) 76%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%) !important;
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(76,76,76,1)), color-stop(12%, rgba(43,43,43,1)), color-stop(25%, rgba(20,20,20,1)), color-stop(39%, rgba(15,15,15,1)), color-stop(50%, rgba(8,8,8,1)), color-stop(51%, rgba(0,0,0,1)), color-stop(60%, rgba(17,17,17,1)), color-stop(76%, rgba(28,28,28,1)), color-stop(91%, rgba(28,28,28,1)), color-stop(100%, rgba(19,19,19,1))) !important;
+background: -webkit-linear-gradient(-45deg, rgba(76,76,76,1) 0%, rgba(43,43,43,1) 12%, rgba(20,20,20,1) 25%, rgba(15,15,15,1) 39%, rgba(8,8,8,1) 50%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(28,28,28,1) 76%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%) !important;
+background: -o-linear-gradient(-45deg, rgba(76,76,76,1) 0%, rgba(43,43,43,1) 12%, rgba(20,20,20,1) 25%, rgba(15,15,15,1) 39%, rgba(8,8,8,1) 50%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(28,28,28,1) 76%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%) !important;
+background: -ms-linear-gradient(-45deg, rgba(76,76,76,1) 0%, rgba(43,43,43,1) 12%, rgba(20,20,20,1) 25%, rgba(15,15,15,1) 39%, rgba(8,8,8,1) 50%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(28,28,28,1) 76%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%) !important;
+background: linear-gradient(135deg, rgba(76,76,76,1) 0%, rgba(43,43,43,1) 12%, rgba(20,20,20,1) 25%, rgba(15,15,15,1) 39%, rgba(8,8,8,1) 50%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(28,28,28,1) 76%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 ) !important;
+
+
+}
+
+.button-blue {
+background: rgba(254,182,69,1) !important;
+background: -moz-linear-gradient(top, rgba(254,182,69,1) 0%, rgba(79,57,6,1) 100%) !important;
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(254,182,69,1)), color-stop(100%, rgba(79,57,6,1))) !important;
+background: -webkit-linear-gradient(top, rgba(254,182,69,1) 0%, rgba(79,57,6,1) 100%) !important;
+background: -o-linear-gradient(top, rgba(254,182,69,1) 0%, rgba(79,57,6,1) 100%) !important;
+background: -ms-linear-gradient(top, rgba(254,182,69,1) 0%, rgba(79,57,6,1) 100%) !important;
+background: linear-gradient(to bottom, rgba(254,182,69,1) 0%, rgba(79,57,6,1) 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feb645', endColorstr='#4f3906', GradientType=0 ) !important;
+
+}
+
+.buttons {
+box-shadow: none !important;
+
+}
+
+.button-green {
+
+background: rgba(120,120,120,1) !important;
+background: -moz-linear-gradient(top, rgba(120,120,120,1) 0%, rgba(38,38,38,1) 100%) !important;
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(120,120,120,1)), color-stop(100%, rgba(38,38,38,1))) !important;
+background: -webkit-linear-gradient(top, rgba(120,120,120,1) 0%, rgba(38,38,38,1) 100%) !important;
+background: -o-linear-gradient(top, rgba(120,120,120,1) 0%, rgba(38,38,38,1) 100%) !important;
+background: -ms-linear-gradient(top, rgba(120,120,120,1) 0%, rgba(38,38,38,1) 100%) !important;
+background: linear-gradient(to bottom, rgba(120,120,120,1) 0%, rgba(38,38,38,1) 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#787878', endColorstr='#262626', GradientType=0 ) !important;
+}
+
+.buttong {
+
+box-shadow: none !important;
+}
+
+
+.inner-wrap {
+background: none !important;
+
+}
+
+.panel-blue {
+background: #225b93 !important;
+
+}
