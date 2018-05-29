@@ -1,0 +1,12 @@
+        <!--  -->
+
+                <li id="lang-menu" class="dropdown">
+                  <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                    <span id="lang-header"><i class="fa fa-globe"></i>Bahasa</span><b class="caret"></b>
+                  </a>
+                  <ul class="dropdown-menu dropdown-menu-right region">
+                    <li><a href="http://www.aromabet.com/language/en" lang="en-US"><i class="ico_en"></i>English</a></li>
+                    <li><a href="http://www.aromabet.com/language/id" lang="id-ID"><i class="ico_id"></i>Bahasa</a></li>
+                  </ul>
+                </li>
+                <!--  -->
